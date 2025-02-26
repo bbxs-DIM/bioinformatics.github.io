@@ -13,7 +13,6 @@
 |     R      |          analyze data matrix          |          handling files and pipelines             |
 |   Python   | both string and data handling analysis |          handling files and pipelines             |
 
-
 ## (2) study plans
 - 课前熟悉基本的语法，学习 Linux、R 以及 Python 的基本操作。
 - 掌握基础生物信息学工具和技术，如序列比对和基因预测，在相互的讨论中进行简单的实操练习。
