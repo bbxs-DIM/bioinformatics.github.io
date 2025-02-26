@@ -7,11 +7,12 @@
 - 模型:一个通过某种算法训练后得到的数学对象，能够从输入数据中推断出输出。
 
 ### Linux vs R vs Python
-|    Table   |                Good at                |                    Not good at                     |
-|:----------:|:-------------------------------------:|:--------------------------------------------------:|
-|    Linux   |          string processing           |            analyze array and matrix               |
-|     R      |          analyze data matrix          |          handling files and pipelines             |
-|   Python   | both string and data handling analysis |          handling files and pipelines             |
+
+| Table  | Good at                                | Not good at |
+|--------|----------------------------------------|------------------------------|
+| Linux  | string processing                      | analyze array and matrix     |
+| R      | analyze data matrix                    | handling files and pipelines |
+| Python | both string and data handling analysis | handling files and pipelines |
 
 ## (2) study plans
 - 课前熟悉基本的语法，学习 Linux、R 以及 Python 的基本操作。
